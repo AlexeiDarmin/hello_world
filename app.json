@@ -1,0 +1,12 @@
+{
+  "expo": {
+   "name": "Hello World",
+   "icon": "./images/android_launch_icon/web_hi_res_512.png",
+   "version": "0.0.1",
+   "slug": "helloworld",
+   "sdkVersion": "27.0.0",
+   "android": {
+     "package": "com.alexeidarmin.helloworld"
+   }
+  }
+}
